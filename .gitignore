@@ -1,4 +1,5 @@
 *.tmp
+.idea
 bats/
 tests/functions/init.groovy.d/
 tests/functions/copy_reference_file.log
